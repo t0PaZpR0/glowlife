@@ -1,4 +1,4 @@
-# glow
+<title> GLOWLIFE </title>
 <h1>
   WELCOME TO MY GLOWLIFE PROJECT
   </h1>
