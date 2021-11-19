@@ -8,8 +8,5 @@
   Is this where Im supposed to write my paragraph. I am ne wat this coding. I hope I'll better.
   </p>
 <p2> 
-  I like gitbug. Its kind of fun. I like github. It's way better than code.org or scratch.
+  I like github. Its kind of fun. I like github. It's way better than code.org or scratch.
   </p2>
-<script>
-rect(200,200,200,200);
-  </script>
