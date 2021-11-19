@@ -1,5 +1,5 @@
 # GLOWLIFE
-background(210,0,0);
+
 <h1>
   WELCOME TO MY GLOWLIFE PROJECT
   </h1>
