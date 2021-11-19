@@ -10,3 +10,6 @@
 <p2> 
   I like gitbug. Its kind of fun. I like github. It's way better than code.org or scratch.
   </p2>
+<script>
+rect(200,200,200,200);
+  </script>
